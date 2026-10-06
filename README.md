@@ -26,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,tailwind,git,github&perline=11" alt="Tech stack" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahim-shahriar-251&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile views" />
-</p>
-
 <!-- ========== END HEADER ========== -->
 
 <h1 align="center">Hi, I'm Fahim Shahriar 👋</h1>
