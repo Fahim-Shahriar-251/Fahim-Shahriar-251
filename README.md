@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Fahim Shahriar</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Interested in Machine Learning & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-shahriar-251&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-shahriar-251" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim-shahriar-251" alt="fahim-shahriar-251" /></a> </p>
 
 - 🌱 I’m currently learning **AI-Driven Full-Stack Web Development Learner at Programming Hero**
-- 
+  
 - 🔭 My First Project Using Next.js [FITLOG](https://b14-a6-fit-log-tau.vercel.app/)
 
 - 🔭 My First React Project [Dev Stack](https://devstack-251.netlify.app/)
