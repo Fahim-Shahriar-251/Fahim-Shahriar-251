@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fahim Shahriar</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Interested in Machine Learning & AI</h3>
 
-- 🌱 I’m currently learning **AI-Driven Full-Stack Web Development Learner at Programming Hero**
+- 🌱 I’m currently learning **AI-Driven Full-Stack Web Development at Programming Hero**
   
 - 🔭 My First Project Using Next.js [FITLOG](https://b14-a6-fit-log-tau.vercel.app/)
 
