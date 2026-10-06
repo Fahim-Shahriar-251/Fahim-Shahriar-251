@@ -1,35 +1,42 @@
-<!-- ========== HEADER BANNER ========== -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Fahim%20Shahriar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Aspiring%20AI%2FML%20Engineer&descSize=18&descAlignY=58&descColor=9be7ff" alt="Fahim Shahriar banner" />
-</p>
+<!-- ========== HEADER ========== -->
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+modern%2C+scalable+web+apps;MERN+Stack+%7C+Next.js+%7C+TypeScript;Currently+exploring+Machine+Learning+%26+AI;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Improve" alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=180&section=header&text=Fahim%20Shahriar&fontSize=48&fontColor=f9fafb&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Engineering%20%C2%B7%20AI%2FML&descSize=16&descColor=9ca3af&descAlign=50&descAlignY=65" alt="Fahim Shahriar" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahim-shahriar-251&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/fahim-shahriar-127129334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/fahim_shahriar-251/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/fahim_shahriar-251">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+<sub>
+Building scalable web applications with the MERN stack and Next.js.<br/>
+Expanding into machine learning and AI-driven systems.
+</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/fahim-shahriar-127129334/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/fahim_shahriar-251/">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://codeforces.com/profile/fahim_shahriar-251">
+  <img src="https://img.shields.io/badge/Codeforces-111827?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://www.codechef.com/users/ami_fahim">
+  <img src="https://img.shields.io/badge/CodeChef-111827?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+
+</div>
 
 <!-- ========== END HEADER ========== -->
 
@@ -230,6 +237,4 @@ A React-based technology stack builder built while learning modern React develop
   <b>Code • Build • Learn • Improve 🚀</b>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=60&section=footer" alt="" />
