@@ -1,42 +1,34 @@
-<!-- ========== HEADER ========== -->
-<div align="center">
+<!-- ========== HEADER BANNER ========== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A7BFF,100:00E5FF&height=260&section=header&text=Fahim%20Shahriar&fontSize=64&fontColor=ffffff&fontAlignY=36&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Enthusiast%20%E2%80%A2%20Aspiring%20AI%2FML%20Engineer&descSize=18&descAlignY=58&descColor=ffffff" alt="Fahim Shahriar" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=180&section=header&text=Fahim%20Shahriar&fontSize=48&fontColor=f9fafb&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Engineering%20%C2%B7%20AI%2FML&descSize=16&descColor=9ca3af&descAlign=50&descAlignY=65" alt="Fahim Shahriar" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=720&height=45&lines=Building+modern%2C+scalable+web+applications;MERN+%7C+Next.js+%7C+TypeScript;Sharpening+DSA+%26+problem-solving+daily;Leveling+up+into+Machine+Learning+%26+AI" alt="Typing animation" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahim-shahriar-127129334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/fahim_shahriar-251/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/fahim_shahriar-251">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/ami_fahim">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
-<sub>
-Building scalable web applications with the MERN stack and Next.js.<br/>
-Expanding into machine learning and AI-driven systems.
-</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,tailwind,git,github&perline=11" alt="Tech stack" />
+</p>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/fahim-shahriar-127129334/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/fahim_shahriar-251/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/fahim_shahriar-251">
-  <img src="https://img.shields.io/badge/Codeforces-111827?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://www.codechef.com/users/ami_fahim">
-  <img src="https://img.shields.io/badge/CodeChef-111827?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahim-shahriar-251&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile views" />
+</p>
 
 <!-- ========== END HEADER ========== -->
 
@@ -207,24 +199,12 @@ A React-based technology stack builder built while learning modern React develop
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-shahriar-251&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fahim-shahriar-251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-shahriar-251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fahim-shahriar-251&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-shahriar-251"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-shahriar-251&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -237,4 +217,6 @@ A React-based technology stack builder built while learning modern React develop
   <b>Code • Build • Learn • Improve 🚀</b>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=60&section=footer" alt="" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:3A7BFF,100:7F00FF&height=140&section=footer&reversal=true" alt="footer" />
+</p>
