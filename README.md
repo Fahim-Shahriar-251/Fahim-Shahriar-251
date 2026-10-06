@@ -1,3 +1,131 @@
+<!-- GitHub Profile Banner -->
+
+<div align="center">
+
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+
+  <!-- Decorative grid -->
+  <g opacity="0.08" stroke="#ffffff">
+    <path d="M0 40H1200"/>
+    <path d="M0 80H1200"/>
+    <path d="M0 120H1200"/>
+    <path d="M0 160H1200"/>
+    <path d="M0 200H1200"/>
+
+    <path d="M100 0V220"/>
+    <path d="M200 0V220"/>
+    <path d="M300 0V220"/>
+    <path d="M400 0V220"/>
+    <path d="M500 0V220"/>
+    <path d="M600 0V220"/>
+    <path d="M700 0V220"/>
+    <path d="M800 0V220"/>
+    <path d="M900 0V220"/>
+    <path d="M1000 0V220"/>
+    <path d="M1100 0V220"/>
+  </g>
+
+  <!-- Decorative network -->
+  <g stroke="url(#accent)" stroke-width="1.5" opacity="0.55">
+    <path d="M760 50 L850 95 L930 45 L1030 85 L1130 45"/>
+    <path d="M850 95 L900 155 L1000 125 L1080 175"/>
+    <path d="M930 45 L1000 125"/>
+    <path d="M1030 85 L1000 125"/>
+  </g>
+
+  <!-- Network nodes -->
+  <g fill="#22c55e" filter="url(#glow)">
+    <circle cx="760" cy="50" r="5"/>
+    <circle cx="850" cy="95" r="6"/>
+    <circle cx="930" cy="45" r="5"/>
+    <circle cx="1030" cy="85" r="6"/>
+    <circle cx="1130" cy="45" r="5"/>
+    <circle cx="900" cy="155" r="5"/>
+    <circle cx="1000" cy="125" r="6"/>
+    <circle cx="1080" cy="175" r="5"/>
+  </g>
+
+  <!-- Code decoration -->
+  <g fill="#94a3b8" opacity="0.45" font-family="monospace" font-size="13">
+    <text x="780" y="25">&lt;/&gt;</text>
+    <text x="1080" y="105">{ API }</text>
+    <text x="720" y="190">const developer = true;</text>
+    <text x="950" y="205">AI • ML • Backend</text>
+  </g>
+
+  <!-- Main text -->
+  <text
+    x="70"
+    y="92"
+    fill="#ffffff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="42"
+    font-weight="700">
+    FAHIM SHAHRIAR
+  </text>
+
+  <text
+    x="72"
+    y="128"
+    fill="#22c55e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="19"
+    font-weight="600">
+    FULL-STACK WEB DEVELOPER
+  </text>
+
+  <text
+    x="72"
+    y="158"
+    fill="#cbd5e1"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15">
+    Backend • MERN • AI/ML • Problem Solving
+  </text>
+
+  <!-- Accent line -->
+  <rect x="72" y="176" width="300" height="3" rx="2" fill="url(#accent)"/>
+
+  <!-- Small tech labels -->
+  <g
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="11"
+    fill="#94a3b8">
+
+    <text x="72" y="201">React</text>
+    <text x="125" y="201">Next.js</text>
+    <text x="195" y="201">Node.js</text>
+    <text x="270" y="201">MongoDB</text>
+    <text x="355" y="201">TypeScript</text>
+  </g>
+</svg>
+
+</div>
+
 <h1 align="center">Hi, I'm Fahim Shahriar 👋</h1>
 
 <h3 align="center">
